@@ -2,7 +2,7 @@ This is a simple micronaut rest application which includes
 
 1. GET, PUT, POST, DELETE calls
 2. Custom Exception for few method calls
-3 Junit 5
+3. Junit jupiter
 4. OpenAPI - swagger-ui, redoc, rapidoc
 
 To start the application follow the below steps

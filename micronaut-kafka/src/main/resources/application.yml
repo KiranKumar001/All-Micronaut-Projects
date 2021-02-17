@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: micronautKafka
+kafka:
+  bootstrap:
+    servers: # multiple brokers can be added below
+      - localhost:9092

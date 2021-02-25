@@ -25,7 +25,7 @@ How to run the application
 2. docker-compose up // this will start the kaka container (lenses.io) on localhost:3030
 3. gradlew clean assemble
 4. docker build . -t micronaut-kafka
-5. docker run -p micronaut-kafka
+5. docker run micronaut-kafka
 
 ## Micronaut 2.3.2 Documentation
 

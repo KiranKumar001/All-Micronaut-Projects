@@ -6,7 +6,7 @@ Project Name: restful-api
 This project contains sample example on 
 How to do rest calls (Get/Post/Put/delete) using micronaut
 
-Project Namr: micronaut-kafka
+Project Name: micronaut-kafka
 ------------------------------
 main: This project branch contains sample example on 
 How to host kafka cluster on docker, 

@@ -1,14 +1,10 @@
 package com.kafka.example;
 
 import lombok.extern.slf4j.Slf4j;
+
 import org.junit.ClassRule;
-import org.junit.Rule;
 import org.junit.jupiter.api.Test;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.testcontainers.containers.GenericContainer;
 import org.testcontainers.containers.KafkaContainer;
-import org.testcontainers.images.PullPolicy;
 import org.testcontainers.junit.jupiter.Testcontainers;
 import org.testcontainers.utility.DockerImageName;
 
